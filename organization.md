@@ -74,6 +74,13 @@ Down the pipeline
 - finish CodeBrix
 - networks, TCP/IP, OSI, etc
 - distributed systems
+- electrical engineering
+	- DSP/review ASP
+	- Control systems
+	- power circuits, review and expand circuits
+	- review EM waves, expand
+	- further study of semiconductors
+	- FE exam work
 - skills from APUE
 	- advanced POSIX system programming
 - Java load balancing system
