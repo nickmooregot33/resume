@@ -67,7 +67,7 @@ Java
 - in progress
 
 Down the pipeline
----
+===
 - task queue/progress manager for multiple priorities and stories
 	- everyday todo management
 	- OOP (java, python, C++)
