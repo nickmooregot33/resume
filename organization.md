@@ -79,6 +79,9 @@ Down the pipeline
 	- everyday todo management
 	- OOP (java, python, C++)
 - finish CodeBrix
+- Android programming
+	- golf stroke quality progression tracker
+	- android version of the task queue/progress manager?
 - networks, TCP/IP, OSI, etc
 - distributed systems
 - electrical engineering
