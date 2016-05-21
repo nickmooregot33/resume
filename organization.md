@@ -5,6 +5,7 @@ CS 225
 ---
 - Mozaic
 - Maze generator and solver
+- Data Structures
 ECE 391
 ---
 - Rudimentary OS
@@ -27,7 +28,7 @@ ECE 445
 CS 431
 ---
 - embedded programming for PID control
-- real-time scheduling and programming with uCOS/II
+- real-time Rate Monotonic Scheduling and programming with uCOS/II
 CS 423
 ---
 - Kernel module development for linux kernel
@@ -64,3 +65,24 @@ System Verilog
 Java
 ---
 - in progress
+
+Down the pipeline
+---
+- task queue/progress manager for multiple priorities and stories
+	- everyday todo management
+	- OOP (java, python, C++)
+- finish CodeBrix
+- networks, TCP/IP, OSI, etc
+- distributed systems
+- skills from APUE
+	- advanced POSIX system programming
+- Java load balancing system
+- further embedded and RTOS work
+	- personal media streamer (need media API knowledge)
+	- internet enabled automotive media center (hopefully a distributed setup)
+- personal website development/LAMP
+- Linux/Unix sysadmin
+- portable NES game system
+	- FPGA logic system development
+	- microprocessor architecture implementation
+	- hardware/PCB design
